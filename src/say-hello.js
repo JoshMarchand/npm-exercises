@@ -1,0 +1,1 @@
+let nice = () => 'hi beautiful';
